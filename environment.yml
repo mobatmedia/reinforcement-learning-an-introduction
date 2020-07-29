@@ -1,0 +1,9 @@
+name: reinforcement-learning-an-introduction
+channels:
+- conda-forge
+dependencies:
+- pip==20.2.*
+- python==3.6.*
+- seaborn==0.10.*
+- statsmodels==0.11.*
+- tqdm==4.38.*
